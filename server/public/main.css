@@ -1,0 +1,10 @@
+.soundThings img {
+    height: 10em;
+    width: 10em;
+    border: soild;
+    border-radius: 50%;
+}
+
+body {
+    background-color: bisque;
+}
